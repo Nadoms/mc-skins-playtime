@@ -1,0 +1,88 @@
+{
+  "total_skins": 120,
+  "global_mean_brightness": 75.71056840454102,
+  "global_mean_saturation": 0.3640203199620203,
+  "top_dominant_colors": [
+    {
+      "hex": "#101010",
+      "count": 37
+    },
+    {
+      "hex": "#f0f0f0",
+      "count": 14
+    },
+    {
+      "hex": "#301010",
+      "count": 11
+    },
+    {
+      "hex": "#303030",
+      "count": 7
+    },
+    {
+      "hex": "#90b090",
+      "count": 5
+    },
+    {
+      "hex": "#f0d0b0",
+      "count": 4
+    },
+    {
+      "hex": "#503090",
+      "count": 3
+    },
+    {
+      "hex": "#705050",
+      "count": 3
+    },
+    {
+      "hex": "#3070b0",
+      "count": 3
+    },
+    {
+      "hex": "#507070",
+      "count": 2
+    },
+    {
+      "hex": "#503010",
+      "count": 2
+    },
+    {
+      "hex": "#505050",
+      "count": 2
+    },
+    {
+      "hex": "#d0d0d0",
+      "count": 2
+    },
+    {
+      "hex": "#d01010",
+      "count": 2
+    },
+    {
+      "hex": "#d0b090",
+      "count": 2
+    },
+    {
+      "hex": "#b01010",
+      "count": 2
+    },
+    {
+      "hex": "#105050",
+      "count": 2
+    },
+    {
+      "hex": "#101030",
+      "count": 2
+    },
+    {
+      "hex": "#705030",
+      "count": 1
+    },
+    {
+      "hex": "#d07010",
+      "count": 1
+    }
+  ],
+  "cluster_count": 6
+}

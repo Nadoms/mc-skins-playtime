@@ -1,0 +1,9 @@
+{
+  "input_dir": "out/64x64",
+  "output_dir": "data/insights",
+  "max_images": 120,
+  "downsample": 8,
+  "clusters": 6,
+  "projection_method": "pca_svd",
+  "clustering_method": "kmeans_np"
+}
